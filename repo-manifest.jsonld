@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/YousefED/typescript-json-schema/commit/9ec6bfce595a7b96d18a11ac12bed3f155f97bf2",
       "git:hexsha": "9ec6bfce595a7b96d18a11ac12bed3f155f97bf2",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.68.0"
     },
     {
